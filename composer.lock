@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "945b9467469b5c63afd41e715e5fb882",
+    "content-hash": "19b5ea8f5e655b4508df29b19fe45c7f",
     "packages": [
         {
             "name": "benlumia007/backdrop-contracts",
@@ -57,7 +57,7 @@
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": {
         "benlumia007/backdrop-contracts": 20
     },
