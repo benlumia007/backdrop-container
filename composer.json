@@ -1,0 +1,26 @@
+{
+    "name": "benlumia007/backdrop-container",
+    "description": "Backdrop Contracts for Backdrop framework.",
+    "keywords": [ "classicpress", "wordpress" ],
+    "homepage": "https://github.com/benlumia007/backdrop-container",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Benjamin Lu",
+            "email": "benlumia007@gmail.com",
+            "homepage": "https://benjlu.com",
+            "role": "Developer"
+        }
+    ],
+	"support"     : {
+		"issues" : "https://github.com/benlumia007/backdrop-container/issues"
+	},
+    "autoload": {
+        "psr-4": {
+            "Benlumia007\\Backdrop\\Container\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=7.4.3"
+    }
+}
