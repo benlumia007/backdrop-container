@@ -1,0 +1,57 @@
+{
+    "packages": [
+        {
+            "name": "benlumia007/backdrop-contracts",
+            "version": "v1.0.0.x-dev",
+            "version_normalized": "1.0.0.9999999-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/benlumia007/backdrop-contracts.git",
+                "reference": "2715ad29040a4584eda31884e1c75db094d92ca0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/benlumia007/backdrop-contracts/zipball/2715ad29040a4584eda31884e1c75db094d92ca0",
+                "reference": "2715ad29040a4584eda31884e1c75db094d92ca0",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.4.3"
+            },
+            "time": "2022-05-26T19:55:57+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Benlumia007\\Backdrop\\Contracts\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Benjamin Lu",
+                    "email": "benlumia007@gmail.com",
+                    "homepage": "https://benjlu.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Backdrop Contracts for Backdrop framework.",
+            "homepage": "https://github.com/benlumia007/backdrop-contracts",
+            "keywords": [
+                "classicpress",
+                "wordpress"
+            ],
+            "support": {
+                "issues": "https://github.com/benlumia007/backdrop-contracts/issues",
+                "source": "https://github.com/benlumia007/backdrop-contracts/tree/v1.0.0"
+            },
+            "install-path": "../benlumia007/backdrop-contracts"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
