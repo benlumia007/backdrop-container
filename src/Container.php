@@ -12,7 +12,7 @@
  */
 
 namespace Benlumia007\Backdrop\Container;
-use Benlumia007\Backdrop\Contracts\Container\Container as ContainerContract;
+use Benlumia007\Backdrop\Container\Contracts\Container as ContainerContract;
 use ArrayAccess;
 use Closure;
 use ReflectionClass;
@@ -25,7 +25,7 @@ use ReflectionUnionType;
  * @since  1.0.0
  * @access public
  */
-class Container implements ArrayAccess {
+class Container implements ContainerContract, ArrayAccess {
 	/**
 	* Stored definitions of objects.
 	*
