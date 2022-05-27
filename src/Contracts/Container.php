@@ -12,7 +12,7 @@
  * @license   https://www.gnu.org/licenses/gpl-2.0.html
  */
 
-namespace Benlumia007\Backdrop\Container\Contracts\Container;
+namespace Benlumia007\Backdrop\Container\Contracts;
 use Closure;
 
 /**

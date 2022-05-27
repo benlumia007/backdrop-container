@@ -12,7 +12,7 @@
  */
 
 namespace Benlumia007\Backdrop\Container;
-use Benlumia007\Backdrop\Container\Contracts\Container\Container as ContainerContract;
+use Benlumia007\Backdrop\Container\Contracts\Container as ContainerContract;
 use ArrayAccess;
 use Closure;
 use ReflectionClass;
