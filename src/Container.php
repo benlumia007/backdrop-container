@@ -25,7 +25,7 @@ use ReflectionUnionType;
  * @since  1.0.0
  * @access public
  */
-class Container implements ContainerContract, ArrayAccess {
+class Container implements ArrayAccess {
 	/**
 	* Stored definitions of objects.
 	*
